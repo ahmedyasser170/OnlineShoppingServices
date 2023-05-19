@@ -1,0 +1,12 @@
+com\selfstudy\orderservice\model\OrderLineItems.class
+com\selfstudy\orderservice\dto\OrderLineItemsDto.class
+com\selfstudy\orderservice\model\Order.class
+com\selfstudy\orderservice\dto\InventoryResponse.class
+com\selfstudy\orderservice\service\OrderServiceImpl.class
+com\selfstudy\orderservice\service\OrderService.class
+com\selfstudy\orderservice\repository\OrderRepository.class
+com\selfstudy\orderservice\config\WebClientConfig.class
+com\selfstudy\orderservice\controller\OrderController.class
+com\selfstudy\orderservice\OrderServiceApplication.class
+com\selfstudy\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\selfstudy\orderservice\dto\OrderRequest.class

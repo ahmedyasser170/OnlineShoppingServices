@@ -1,0 +1,11 @@
+com\selfstudy\productservice\model\Product$ProductBuilder.class
+com\selfstudy\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\selfstudy\productservice\service\ProductService.class
+com\selfstudy\productservice\ProductServiceApplication.class
+com\selfstudy\productservice\dto\ProductResponse.class
+com\selfstudy\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\selfstudy\productservice\service\ProductServiceImpl.class
+com\selfstudy\productservice\repository\ProductRepository.class
+com\selfstudy\productservice\dto\ProductRequest.class
+com\selfstudy\productservice\model\Product.class
+com\selfstudy\productservice\controller\ProductController.class

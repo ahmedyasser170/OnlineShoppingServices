@@ -1,0 +1,11 @@
+E:\MicroServices_Study\OnlineShopping\onlineshopping-parent\order-service\src\main\java\com\selfstudy\orderservice\OrderServiceApplication.java
+E:\MicroServices_Study\OnlineShopping\onlineshopping-parent\order-service\src\main\java\com\selfstudy\orderservice\model\Order.java
+E:\MicroServices_Study\OnlineShopping\onlineshopping-parent\order-service\src\main\java\com\selfstudy\orderservice\config\WebClientConfig.java
+E:\MicroServices_Study\OnlineShopping\onlineshopping-parent\order-service\src\main\java\com\selfstudy\orderservice\dto\OrderLineItemsDto.java
+E:\MicroServices_Study\OnlineShopping\onlineshopping-parent\order-service\src\main\java\com\selfstudy\orderservice\service\OrderService.java
+E:\MicroServices_Study\OnlineShopping\onlineshopping-parent\order-service\src\main\java\com\selfstudy\orderservice\dto\InventoryResponse.java
+E:\MicroServices_Study\OnlineShopping\onlineshopping-parent\order-service\src\main\java\com\selfstudy\orderservice\repository\OrderRepository.java
+E:\MicroServices_Study\OnlineShopping\onlineshopping-parent\order-service\src\main\java\com\selfstudy\orderservice\model\OrderLineItems.java
+E:\MicroServices_Study\OnlineShopping\onlineshopping-parent\order-service\src\main\java\com\selfstudy\orderservice\controller\OrderController.java
+E:\MicroServices_Study\OnlineShopping\onlineshopping-parent\order-service\src\main\java\com\selfstudy\orderservice\dto\OrderRequest.java
+E:\MicroServices_Study\OnlineShopping\onlineshopping-parent\order-service\src\main\java\com\selfstudy\orderservice\service\OrderServiceImpl.java
